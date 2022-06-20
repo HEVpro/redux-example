@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Jugo de naranja",
+      "price": "211",
+      "id": 3
+    },
+    {
+      "name": "jugo de manzana",
+      "price": 300,
+      "id": 5
+    },
+    {
+      "name": "jugo de pomelo",
+      "price": 222,
+      "id": 6
+    },
+    {
+      "name": "juego de pomelo",
+      "price": 125,
+      "id": 7
+    },
+    {
+      "name": "jugo de nada",
+      "price": 225,
+      "id": 8
+    },
+    {
+      "name": "jugo de pera",
+      "price": 355,
+      "id": 9
+    }
+  ]
+}
